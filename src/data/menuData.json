@@ -1,0 +1,449 @@
+{
+  "variant1": {
+    "Soups": [
+      {
+        "name": "Tom Yum Soup",
+        "id": "1",
+        "price_Veg": "253",
+        "price_Chicken": "303",
+        "price_SeaFood": "363",
+        "Desp": "Traditional Thai Soup"
+      },
+      {
+        "name": "Minestrone soup",
+        "id": "2",
+        "price_Veg": "366",
+        "price_Chicken": "439",
+        "price_SeaFood": null,
+        "Desp": "Italian Tomato Based Soup with Vegetables"
+      },
+      {
+        "name": "Cream of Brocolli soup",
+        "id": "3",
+        "price_Veg": "253",
+        "price_Chicken": null,
+        "price_SeaFood": null,
+        "Desp": "A thick Broth with brocolli & vegetables"
+      }
+    ],
+    "Salads": [
+      {
+        "name": "Vietnamese Noodle Salad",
+        "id": "1",
+        "price_Veg": "439",
+        "price_Chicken": "488",
+        "price_SeaFood": "549",
+        "Desp": "Rice noodles, vegetables, oriental relish"
+      },
+      {
+        "name": "Classic Som tam",
+        "id": "2",
+        "price_Veg": "308",
+        "price_Chicken": "413",
+        "price_SeaFood": "439",
+        "Desp": "Raw pappaya,raw mango,french beans,cherry tomatoes,thai herbs"
+      },
+      {
+        "name": "Lebanese Falafel Salad bowl",
+        "id": "3",
+        "price_Veg": "549",
+        "price_Chicken": null,
+        "price_SeaFood": null,
+        "Desp": "Raw pappaya,raw mango,french beans,cherry tomatoes,thai herbs"
+      },
+      {
+        "name": "Mediterranean Buddha bowl",
+        "id": "4",
+        "price_Veg": "528",
+        "price_Chicken": null,
+        "price_SeaFood": "363",
+        "Desp": "mesclun greens, chia seeds, cherry tomatoes,beans, sautéed spinach, purple cabbage,pickled cucumber, grilled mushrooms, tofu"
+      }
+    ],
+    "Small_Plates": [
+      {
+        "name": "Oven baked sweet potatoes",
+        "id": "1",
+        "price_Veg": "329",
+        "price_Chicken": null,
+        "price_SeaFood": null,
+        "Desp": "topped with vegetables and dip"
+      },
+      {
+        "name": "Boho Bruschettas",
+        "id": "2",
+        "price_Veg": "403",
+        "price_Chicken": null,
+        "price_SeaFood": null,
+        "Desp": null
+      },
+      {
+        "name": "Potato Wedges",
+        "id": "3",
+        "price_Veg": "248",
+        "price_Chicken": null,
+        "price_SeaFood": null,
+        "Desp": "simple old school wedges"
+      },
+      {
+        "name": "Vegan Stir fry of Broccoli & Mushrooms",
+        "id": "4",
+        "price_Veg": "366",
+        "price_Chicken": null,
+        "price_SeaFood": null,
+        "Desp": "stir fried with ginger, garlic & ker lime"
+      },
+      {
+        "name": "Open Sandwich",
+        "id": "5",
+        "price_Veg": "385",
+        "price_Chicken": "439",
+        "price_SeaFood": "549",
+        "Desp": "Copenhagen market style open sandwich"
+      },
+      {
+        "name": "Zaatar bread",
+        "id": "6",
+        "price_Veg": "390",
+        "price_Chicken": null,
+        "price_SeaFood": null,
+        "Desp": "Oven baked bread, turkish spices, labneh"
+      },
+      {
+        "name": "Moroccan Brocoli & Corn Cigars",
+        "id": "7",
+        "price_Veg": "439",
+        "price_Chicken": null,
+        "price_SeaFood": null,
+        "Desp": "crispy fried cheesy broccoli and corn spring rolls, served with sweet and spicy mango relish"
+      },
+      {
+        "name": "Mezze",
+        "id": "8",
+        "price_Veg": "659",
+        "price_Chicken": "769",
+        "price_SeaFood": null,
+        "Desp": "Crispy fried falafels, hummus, babaghanoush,tzatziki, pickles, pita"
+      },
+      {
+        "name": "Dimsums (Charcoal/ Curried)",
+        "id": "9",
+        "price_Veg": "304",
+        "price_Chicken": "323",
+        "price_SeaFood": null,
+        "Desp": "Choice of Charcoal battered dimsums with oriental relish/ OR Dimsums in spicy red curry"
+      },
+      {
+        "name": "Skewered Prawns",
+        "id": "10",
+        "price_Veg": null,
+        "price_Chicken": null,
+        "price_SeaFood": "513",
+        "Desp": "Thai style skewered prawns"
+      },
+      {
+        "name": "Chicken Satay",
+        "id": "11",
+        "price_Veg": null,
+        "price_Chicken": "439",
+        "price_SeaFood": null,
+        "Desp": "Thai skwered chicken with peanut sauce"
+      },
+      {
+        "name": "Mediterranean Grilled Chicken",
+        "id": "12",
+        "price_Veg": null,
+        "price_Chicken": "363",
+        "price_SeaFood": "Beef 462",
+        "Desp": "chargrilled chicken, paprika, fragrant spices"
+      },
+      {
+        "name": "Fried Fish",
+        "id": "13",
+        "price_Veg": null,
+        "price_Chicken": null,
+        "price_SeaFood": "439",
+        "Desp": "fish deep fried"
+      },
+      {
+        "name": "Chicken Pesto Bowl",
+        "id": "14",
+        "price_Veg": null,
+        "price_Chicken": "537",
+        "price_SeaFood": null,
+        "Desp": "Choice of Calamari (pesto marinated chicken,spinach, tomatoes, onions, spicy broccoli zaatar bread crumbs, pesto vinaegrette"
+      },
+      {
+        "name": "Roast Chicken wings",
+        "id": "15",
+        "price_Veg": null,
+        "price_Chicken": "502",
+        "price_SeaFood": null,
+        "Desp": "Harissa / Barbeque"
+      }
+    ],
+    "Large_Plates": [
+      {
+        "name": "Cauliower/ Shanghai Fried rice with stir fry vegetables",
+        "id": "1",
+        "price_Veg": "545",
+        "price_Lamb": null,
+        "price_Chicken": null,
+        "price_SeaFood": null,
+        "Desp": "A vegan & gluten free scrumptious and healthy meal"
+      },
+      {
+        "name": "Mangolian Curry with Tofu",
+        "id": "2",
+        "price_Veg": "549",
+        "price_Chicken": null,
+        "price_SeaFood": null,
+        "price_Lamb": null,
+        "Desp": "Spicy curry, Tofu, vegetables and brown rice"
+      },
+      {
+        "name": "Chickpea and veg coconut curry",
+        "id": "3",
+        "price_Veg": "513",
+        "price_Chicken": null,
+        "price_SeaFood": null,
+        "price_Lamb": null,
+        "Desp": "chickpea protien, spinach, pumpkin, red rice"
+      },
+      {
+        "name": "Lebanese Falafel Pita",
+        "id": "4",
+        "price_Veg": "439",
+        "price_Chicken": null,
+        "price_SeaFood": null,
+        "price_Lamb": null,
+        "Desp": "falafels, hummus, pickles, onions, tomatoes,babaghanoush, lettuce"
+      },
+      {
+        "name": "Bohemians souvlaki",
+        "id": "5",
+        "price_Veg": null,
+        "price_Chicken": "545",
+        "price_SeaFood": null,
+        "price_Lamb": null,
+        "Desp": "stir fried with ginger, garlic & ker lime"
+      },
+      {
+        "name": "Vietnamese Ph",
+        "id": "6",
+        "price_Veg": "611",
+        "price_Chicken": "633",
+        "price_SeaFood": "659",
+        "price_Lamb": null,
+        "Desp": "avourful broth with noodles, veggies, spicesand exotic aromas"
+      },
+      {
+        "name": "Spaghetti Olio Mediterranean style",
+        "id": "7",
+        "price_Veg": "513",
+        "price_Chicken": "611",
+        "price_SeaFood": null,
+        "price_Lamb": null,
+        "Desp": "zuchini, cherry tomatoes, crushed blackpepper, sundried tomatoes"
+      },
+      {
+        "name": "Thai red/green curry",
+        "id": "8",
+        "price_Veg": "549",
+        "price_Chicken": "611",
+        "price_SeaFood": null,
+        "price_Lamb": null,
+        "Desp": "Traditional thai red curry with a medley of vegetables, red rice/ white rice"
+      },
+      {
+        "name": "Udon Noodle Bowl",
+        "id": "9",
+        "price_Veg": "488",
+        "price_Chicken": "513",
+        "price_SeaFood": "611",
+        "price_Lamb": null,
+        "Desp": "choose from regular/ soupy or Cilantro flavours"
+      },
+      {
+        "name": "Red rice risotto",
+        "id": "10",
+        "price_Veg": "555",
+        "price_Chicken": "615",
+        "price_SeaFood": null,
+        "price_Lamb": null,
+        "Desp": "sweet potato leaves, green onions,mushrooms, spinach, olives,wine"
+      },
+      {
+        "name": "Burger",
+        "id": "11",
+        "price_Veg": "525",
+        "price_Chicken": "556",
+        "price_Lamb": "599",
+        "price_SeaFood": null,
+        "Desp": ""
+      },
+      {
+        "name": "Lamb Chopszaatar/regular",
+        "id": "12",
+        "price_Veg": null,
+        "price_Chicken": "556",
+        "price_Lamb": "715",
+        "price_SeaFood": null,
+        "Desp": "Rosemary & paprika marinated Iamb grilled,mashed potatoes"
+      },
+      {
+        "name": "Thyme grilled Salmon",
+        "id": "13",
+        "price_Veg": null,
+        "price_Chicken": null,
+        "price_SeaFood": "1099",
+        "price_Lamb": null,
+        "Desp": "Norwegian Salmon grilled and served with cauliower rice, grilled vegs"
+      },
+      {
+        "name": "Pollo a la brasa",
+        "id": "14",
+        "price_Veg": null,
+        "price_Chicken": "647",
+        "price_Lamb": null,
+        "price_SeaFood": null,
+        "Desp": "peruvian style chicken, choice of mashed potatoes/couscous/rice, vegs"
+      },
+      {
+        "name": "Boho Roll",
+        "id": "15",
+        "price_Veg": "525",
+        "price_Chicken": "439",
+        "price_Lamb": "599",
+        "price_SeaFood": null,
+        "Desp": "crispy chicken, special sauces, vegs"
+      },
+      {
+        "name": "Teriyaki Chicken Pineapple boats",
+        "id": "16",
+        "price_Veg": null,
+        "price_Chicken": "659",
+        "price_Lamb": null,
+        "price_SeaFood": null,
+        "Desp": "Teriyaki flavoured chicken served with rice in a pineapple boat"
+      }
+    ]
+  },
+  "variant2": {
+    "Bohemians_Greek_Flatbreads": [
+      {
+        "name": "Ventimille Pizza (Special Recipe by an Italian)",
+        "id": "1",
+        "price": "765",
+        "Desp": "Red pepper, yellow pepper, onions, tomatoes aubergine & mixed vegetables"
+      },
+      {
+        "name": "Autumn Flatbread",
+        "id": "2",
+        "price": "655",
+        "Desp": "kale,pumpkin, Goat Cheese, Walnuts,Pickled onions, Pomegranate"
+      },
+      {
+        "name": "Pepperoncini",
+        "id": "3",
+        "price": "726",
+        "Desp": "Peppers, mozarella, basil, pepperoni,bird eye chilli, feta, parmesan"
+      },
+      {
+        "name": "Hawaiian",
+        "id": "4",
+        "price": "655",
+        "Desp": "Pineapple, Caramalized Onions, Bell Peppers,mozarella, Parmesan"
+      },
+      {
+        "name": "Crazy Joe",
+        "id": "5",
+        "price": "726",
+        "Desp": "Roasted peppers, grilled chicken, mozarella,Sundried tomatoes, feta, balsamic reduction"
+      },
+      {
+        "name": "Lola's Love",
+        "id": "6",
+        "price": "726",
+        "Desp": "Caramalized onions, goat cheese, arugula"
+      },
+      {
+        "name": "Barbeque chicken",
+        "id": "7",
+        "price": "759",
+        "Desp": "chicken, bacon, mozzarella, garlic, barbeque sauce"
+      },
+      {
+        "name": "Shrooms",
+        "id": "8",
+        "price": "726",
+        "Desp": "wild mushrooms, tomatoes, mozzarella, parmesan, trufe oil"
+      },
+      {
+        "name": "Piggy talks",
+        "id": "9",
+        "price": "710",
+        "Desp": "tomatoes, mozarella, caramalized onion, crispy bacon"
+      },
+      {
+        "name": "Bohemian Rhapsody",
+        "id": "10",
+        "price": "765",
+        "Desp": "(mushrooms, pepper, zuchini, broccoli, parmesan,mozarella, sundried tomatoes,olives, jalapenos"
+      },
+      {
+        "name": "Mediterranean Artichokes",
+        "id": "11",
+        "price": "726",
+        "Desp": "Artichokes, tomatoes, pesto, mozzarella, parmesan"
+      },
+      {
+        "name": "Roasted Garlic Mozzarella Flatbread",
+        "id": "12",
+        "price": "545",
+        "Desp": "Mozzarella, Basil, Tomatoes"
+      }
+    ]
+  },
+  "variant3": {
+    "Tea_Coffe": [
+      { "name": "Immunity Tea", "id": "1", "price": "209" },
+      { "name": "Suleimani Chai", "id": "2", "price": "199" },
+      { "name": "Earl Grey", "id": "3", "price": "165" },
+      { "name": "Green Tea", "id": "4", "price": "209" },
+      { "name": "Chamomile tea", "id": "5", "price": "209" },
+      { "name": "Ginger Lemon Honey Tea", "id": "6", "price": "209" },
+      { "name": "Moroccan Mint Tea", "id": "7", "price": "209" },
+      { "name": "Masala Chai ", "id": "8", "price": "209" },
+      { "name": "Capuccino /Americano /Latte", "id": "9", "price": "319" },
+      { "name": "Hot Chocolate", "id": "10", "price": "264" },
+      { "name": "Hot Toddy", "id": "11", "price": "385" },
+      { "name": "Turmeric Latte", "id": "12", "price": "231" },
+      { "name": "Espresso", "id": "13", "price": "209" }
+    ],
+    "Beverages": [
+      { "name": "Thai Lemonade", "id": "1", "price": "209" },
+      { "name": "Mineral water", "id": "2", "price": "105" },
+      { "name": "Activated charcoal lemoanade", "id": "3", "price": "215" },
+      { "name": "Ibiza coconut yogurt cooler", "id": "4", "price": "231" },
+      { "name": "Banana Honey Lassi", "id": "5", "price": "165" },
+      { "name": "Spiced Pineapple Juice (fresh)", "id": "6", "price": "264" },
+      {
+        "name": "Lemon grass iced tea with jaggery",
+        "id": "7",
+        "price": "215"
+      },
+      { "name": "Aerated Beverages", "id": "8", "price": "165" },
+      { "name": "Fresh Lime Soda (sweet/salt)", "id": "9", "price": "209" },
+      { "name": "Moroccan Iced Mint Tea", "id": "10", "price": "264" },
+      {
+        "name": "Orange, pineapple, tamarind spiced melange",
+        "id": "11",
+        "price": "325"
+      },
+      { "name": "Fresh watermelon juice", "id": "13", "price": "215" },
+      { "name": "Cold Coffee", "id": "14", "price": "264" },
+      { "name": "Kombucha", "id": "15", "price": "366" }
+    ]
+  }
+}

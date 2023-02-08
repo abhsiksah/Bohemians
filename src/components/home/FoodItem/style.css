@@ -1,0 +1,104 @@
+.food-item-container {
+  display: flex;
+  flex-direction: column;
+  border-top: 1px solid rgb(0, 0, 0);
+  border-bottom: 1px solid rgb(0, 0, 0);
+  color: white;
+  font-family: cursive;
+  gap: 10px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.fi-image {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  position: relative;
+  box-shadow: 2px 2px 10px 5px black;
+  border: 2px dashed black;
+}
+
+.fi-image-container {
+}
+
+.about-fi {
+  height: auto;
+  flex: 1;
+  word-wrap: break-word;
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+  width: 70%;
+}
+.top-food-item {
+  height: auto;
+  display: flex;
+  gap: 1px;
+  width: 15rem;
+}
+
+.bot-food-item {
+  display: flex;
+  gap: 20px;
+  font-family: "Emilys Candy", cursive;
+  font-size: 15px;
+  font-weight: 900;
+  color: rgb(255, 255, 255);
+}
+
+.name-fi {
+  font-size: 20px;
+  color: #ffffff;
+  font-family: "Emilys Candy", cursive;
+  font-weight: 200;
+  width: 11rem;
+}
+
+.descp-fi {
+  font-family: "Reenie Beanie", cursive;
+  font-size: 17px;
+  color: rgba(234, 234, 234, 0.57);
+  font-weight: 200;
+  margin-left: 10px;
+}
+
+.veg-fi {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.chicken-fi {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.seafood-fi {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.lamb-fi {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.only-price {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+}
