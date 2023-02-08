@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Bohemians/static/css/main.d454a3c9.css",
+    "main.js": "/Bohemians/static/js/main.26b58769.js",
+    "static/media/2.png": "/Bohemians/static/media/2.a27c992e2dd5b48c8d26.png",
+    "static/media/1.jpg": "/Bohemians/static/media/1.441f84a588f45f712990.jpg",
+    "static/media/3.jpg": "/Bohemians/static/media/3.2cc7be5b57df1c46d4ec.jpg",
+    "static/media/4.jpg": "/Bohemians/static/media/4.df892eead2e50a9300c3.jpg",
+    "static/media/5.jpg": "/Bohemians/static/media/5.f18f92def03e7b604961.jpg",
+    "static/media/10.jpg": "/Bohemians/static/media/10.6bd7ee1cfac6c37d00a3.jpg",
+    "index.html": "/Bohemians/index.html",
+    "main.d454a3c9.css.map": "/Bohemians/static/css/main.d454a3c9.css.map",
+    "main.26b58769.js.map": "/Bohemians/static/js/main.26b58769.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d454a3c9.css",
+    "static/js/main.26b58769.js"
+  ]
+}
